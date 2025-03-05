@@ -82,7 +82,7 @@ void menu() {
         printf("1. Mostrar direcciones de memoria\n");
         printf("2. Mostrar consumo de memoria\n");
         printf("3. Asignar memoria dinámica\n");
-        printf("4. Liberar memoria de manera dinámica\n");
+        printf("4. Liberar memoria dinámica\n");
         printf("5. Salir\n");
         printf("Seleccione una opción: ");
         scanf("%d", &opcion);
